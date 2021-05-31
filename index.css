@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+  width: 150px;
+  text-align: center;
+}
+.sq {
+  background-color: pink;
+  text-align: center;
+}
